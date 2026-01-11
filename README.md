@@ -1,6 +1,31 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Strengthening Data Structures & Algorithms for placements and competitive programming<br>Building full-stack web projects using JavaScript, Node.js, Express, and SQL<br>Improving problem-solving speed for online assessments<br>👯 I’m looking to collaborate on<br>Beginner-to-intermediate open-source projects<br>DSA practice repositories and coding challenge solutions<br>Web development or backend-focused projects<br>🤝 I’m looking for help with<br>Writing clean, optimized code for interviews<br>Understanding system design basics for freshers<br>Guidance on open-source contributions<br>🌱 I’m currently learning<br>Advanced DSA concepts (Graphs, DP, Trees)<br>Backend development (APIs, databases, authentication)<br>Core CS subjects for GATE CSE & placements<br>⚡ Fun fact<br>I enjoy debugging logic errors more than writing fresh code 😄
+# Hi there 👋 I'm a Developer in Progress 🚀
 
+## 🔭 I’m currently working on
+- Strengthening Data Structures & Algorithms for placements and competitive programming  
+- Building full-stack web projects using JavaScript, Node.js, Express, and SQL  
+- Improving problem-solving speed for online assessments  
+
+## 👯 I’m looking to collaborate on
+- Beginner-to-intermediate open-source projects  
+- DSA practice repositories and coding challenge solutions  
+- Web development or backend-focused projects  
+## 🤝 I’m looking for help with
+- Writing clean, optimized code for interviews  
+- Understanding system design basics for freshers  
+- Guidance on open-source contributions  
+## 🌱 I’m currently learning
+- Advanced DSA concepts (Graphs, DP, Trees)  
+- Backend development (APIs, databases, authentication)  
+- Core CS subjects for GATE CSE & placements  
+## ⚡ Fun fact
+- I enjoy debugging logic errors more than writing fresh code 😄  
+---
+### 📫 Let’s Connect
+- Open to collaboration, learning, and building impactful projects  
+- Always excited to solve challenging problems and optimize solutions  
+
+⭐ *Feel free to explore my repositories and connect with me!*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikeshsahoo/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NIKESHSAHOO18) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/NIKESH-SAHOO) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikeshsahoo2004@gmail.com) 
